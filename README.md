@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./assets/baner.png)
+![Banner](./assets/banner.gif)
 
 <h1>👋 Hola!, Soy Ivan Martinez 👨‍💻!</h1>
 <h2>🚀 Desarrollador <strong>backend</strong> de México 🇲🇽</h2>
