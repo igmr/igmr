@@ -108,7 +108,8 @@
 
   ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=igmr&show_icons=true&locale=es&layout=compact" alt="igmr" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=igmr&show_icons=true&locale=es&layout=compact&theme=dark" alt="igmr" />
+
 </div>
 <!--
 **igmr/igmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
