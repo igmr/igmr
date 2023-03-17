@@ -8,6 +8,7 @@
 [![Youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@igmr_)
 [![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igmr)
 
+<!--
 ---
 
 <h3>⚒️ Lenguajes:</h3>
@@ -109,7 +110,7 @@
   ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igmr&show_icons=true&locale=es&layout=compact&theme=dark" alt="igmr" />
-
+-->
 </div>
 <!--
 **igmr/igmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
